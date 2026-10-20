@@ -1,0 +1,11 @@
+# OS metadata and editor temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Local secrets (examples may be tracked)
+.env
+.env.*
+!.env.example
